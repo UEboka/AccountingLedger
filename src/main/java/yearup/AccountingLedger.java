@@ -62,7 +62,7 @@ public class AccountingLedger {
             } else if (selection == 4) {
 
             } else if (selection == 0) {
-                System.out.println("Exiting the application...");
+                System.out.println(ColorCodes.GREEN+"Have a great day! Don't forget to hydrate!"+ColorCodes.RESET);
                 break;
 
 
@@ -82,7 +82,7 @@ public class AccountingLedger {
         System.out.println("1)"+ColorCodes.YELLOW+ "Add Deposit"+ ColorCodes.RESET);
         System.out.println("2)"+ColorCodes.ORANGE+ "Make Payment (Debit)"+ ColorCodes.RESET);
         System.out.println("3)"+ColorCodes.YELLOW+ "Ledger"+ ColorCodes.RESET);
-        System.out.println("4)"+ColorCodes.ORANGE+ "Custom Search"+ ColorCodes.RESET);
+        System.out.println("4)"+ColorCodes.ORANGE+ "Custom Search -coming soon-"+ ColorCodes.RESET);
         System.out.println("0)"+ColorCodes.YELLOW+ "Exit"+ ColorCodes.RESET);
         System.out.print("Enter your option: ");
         int selection = scanner.nextInt();

@@ -4,7 +4,6 @@
 2023-04-19 | 16:30:15 | Invoice 11 | AnotherVendor | 1200.00
 2023-04-20 | 13:15:00 | Monthly Rent | Landlord | -800.00
 2023-04-21 | 09:00:00 | Advertising | Ad Agency Inc. | -500.00
-2023-05-01 | 10:15:00 | Office Rent | Landlord Inc. | -1200.00
 2023-05-03 | 12:00:00 | Lunch Meeting | Cafe X | -35.00
 2023-06-05 | 15:30:00 | Consulting Fees | John Smith Consulting | 2500.00
 2023-07-01 | 14:45:00 | Quarterly Taxes | Government Agency | -1500.00
@@ -17,14 +16,11 @@
 2025-02-14 | 14:00:00 | Valentine’s Day Event | Event Planning LLC | -800.00
 2025-03-17 | 13:00:00 | St. Patrick’s Day Lunch | Restaurant | -50.00
 2025-05-01 | 11:00:00 | Office Supplies | Staples Inc. | -200.00
-2025-06-15 | 12:30:00 | Consulting Services | Smith Consulting LLC | 3000.00
-2025-08-01 | 09:00:00 | Rent Payment | Landlord LLC | -1800.00
-2025-10-31 | 18:00:00 | Halloween Party | Event Planning Inc. | -1000.00
-2026-01-01 | 12:00:00 | New Year’s Day Event | Event Planning Inc. | -500.00
-2026-04-01 | 16:00:00 | April Fool’s Day Prank | Office Pranks Inc. | -20.00
 2026-07-04 | 10:00:00 | Fourth of July Parade | City Events Department | 80.00
 2023-05-04|21:09:40|Office Hours|Yearup|65.00
-2026-04-01|16:00:00|April Fool's Day Prank|Office Pranks Inc.|-20.00
 2024-09-08|23:23:00|Hot Dog Eating|Texas State Fair|500.0
 2024-12-12|12:12:00|Water Challenge|Godie's Fair|70.0
 1999-12-09|22:22:00|Coffee |Starbucks|-40.0
+1999-12-09|12:12:00|Coca Cola Factory|Coca Cola|65.0
+1999-12-09|22:22:00|Cowboys Game|Comboys Stadium|65.0
+1999-12-09|22:22:00|Cowboys Game|Comboys Stadium|-65.0
